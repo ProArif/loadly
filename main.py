@@ -9,8 +9,8 @@ app = FastAPI()
 
 # Enable CORS for your frontend
 origins = [
-    "https://your-vercel-frontend.vercel.app",  # replace with your frontend URL
-    "http://localhost:5500"                     # optional for local testing
+    "https://vidfetch-frontend-hw19ahfgj-merazs-projects-afacd4c2.vercel.app/",  # replace with your frontend URL
+                       # optional for local testing
 ]
 
 app.add_middleware(
