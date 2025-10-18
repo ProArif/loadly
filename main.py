@@ -9,7 +9,7 @@ app = FastAPI()
 
 # Enable CORS for your frontend
 origins = [
-    "https://vidfetch-frontend-hw19ahfgj-merazs-projects-afacd4c2.vercel.app/",  # replace with your frontend URL
+    "https://vidfetch-frontend-hrjg9jv5y-merazs-projects-afacd4c2.vercel.app/",  # replace with your frontend URL
                        # optional for local testing
 ]
 
